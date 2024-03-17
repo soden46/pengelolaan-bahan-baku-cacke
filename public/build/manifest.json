@@ -1,0 +1,16 @@
+{
+  "resources/images/syarifsoden.png": {
+    "file": "assets/syarifsoden-ef63f145.png",
+    "src": "resources/images/syarifsoden.png"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-75a90d4c.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "resources/sass/app.scss": {
+    "file": "assets/app-4afca0c8.css",
+    "isEntry": true,
+    "src": "resources/sass/app.scss"
+  }
+}
